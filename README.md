@@ -5,4 +5,4 @@ Link:
 https://codenoob-chatbot.herokuapp.com/
 
 How to go about it:
-Try clicking on any of the available options or type something like 'apis' in the chat!
+Try clicking on any of the available options or type something like 'apis' in the chat! 
